@@ -1,4 +1,10 @@
 # EDA Projects
+
+EDA (Exploratory Data Analysis) plays a crucial role in gaining insights, understanding patterns, and discovering key characteristics within the data, ultimately guiding decision-making and driving meaningful outcomes.
+
+Analyse sales data and determine weak areas and opportunities to boost business growth.
+
+
 Super Store, a small retail business based in the United States, specializes in selling Furniture, Office Supplies, and Technology products. Catering to a diverse customer base that includes mass consumers, corporate entities, and home offices, Super Store possesses a dataset encompassing sales, profit, and geographical details for each individual order.
 
 The objective of our work is identifying areas of weakness as well as opportunities for Super Store to enhance business growth.

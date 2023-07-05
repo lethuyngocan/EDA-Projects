@@ -1,4 +1,4 @@
-# Super-Store-Analysis
+# EDA Projects
 Super Store, a small retail business based in the United States, specializes in selling Furniture, Office Supplies, and Technology products. Catering to a diverse customer base that includes mass consumers, corporate entities, and home offices, Super Store possesses a dataset encompassing sales, profit, and geographical details for each individual order.
 
 The objective of our work is identifying areas of weakness as well as opportunities for Super Store to enhance business growth.
